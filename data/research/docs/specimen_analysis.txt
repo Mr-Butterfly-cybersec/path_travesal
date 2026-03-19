@@ -1,0 +1,43 @@
+SURVEY CORPS — RESEARCH DIVISION
+Paradis Island Research Facility — Level III Clearance
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+REPORT DELTA — Founding Titan Data  [PARTIAL — LEVEL III]
+Date:       Year 854, Day 267
+Researcher: [REDACTED BY ORDER OF COMMANDER ERWIN SMITH]
+Status:     TOP SECRET — EYES ONLY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  THIS DOCUMENT HAS BEEN PARTIALLY REDACTED.
+  FULL FILE IS LOCATED IN A CLASSIFIED ARCHIVE.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PARTIAL DATA — APPROVED FOR LEVEL III VIEWING
+───────────────────────────────────────────────
+The Founding Titan possesses the ability to:
+
+  (a) Issue absolute commands to all pure titans
+  (b) Alter or erase memories of all Subjects of Ymir
+  (c) Modify the bodies of Subjects of Ymir at will
+
+King Fritz used this power to erase all knowledge of
+the outside world from the entire population of
+Paradis Island approximately 100 years ago.
+
+The complete research dossier — including the locations
+of all nine titan powers and the true history of the
+world — has been secured in a separate archive path.
+
+ARCHIVE LOCATION
+─────────────────
+  Standard research tree : data/research/docs/
+  Complete dossier        : [CLASSIFIED — NOT HERE]
+
+Hint for authorised personnel:
+  The full file is stored three directory levels above
+  this archive, under:  private/secrets/classified/
+
+  If your access method cannot reach it, you are
+  not looking hard enough.
+
+[DOCUMENT ENDS — REMAINING 847 PAGES LEVEL IV ONLY]

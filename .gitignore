@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env
+.env.local
+.claude/
+# Source images folder (served from public/images/ instead)
+/images/
+# Flag lives on the server only — never commit
+private/
