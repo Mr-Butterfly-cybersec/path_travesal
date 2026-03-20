@@ -28,7 +28,9 @@ export default function handler(req, res) {
     return res.status(403).json({ error: 'Access denied — path traversal detected' });
   }
 
-  console.log(`[DEBUG] cwd=${process.cwd()} | path=${filePath} | exists=${fs.existsSync(filePath)}`);
+  if (req.query.debug === '1') {
+    return res.status(200).json({ cwd: process.cwd(), filePath, exists: fs.existsSync(filePath) });
+  }
 
   try {
     const content = fs.readFileSync(filePath, 'utf8');
