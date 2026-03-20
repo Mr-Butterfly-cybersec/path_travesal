@@ -5,5 +5,3 @@ node_modules/
 .claude/
 # Source images folder (served from public/images/ instead)
 /images/
-# Flag lives on the server only — never commit
-private/
